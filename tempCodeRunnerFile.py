@@ -1,2 +1,0 @@
-
-class TestCalcSolution(unittest.TestCase):
